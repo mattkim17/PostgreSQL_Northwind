@@ -32,7 +32,7 @@ To practice PostgreSQL, I used the Northwind dataset which is a dataset of a sma
 #### 8. What is the discount distribution?
 
 
-#### 9. Which days had the most and least amount of sales in terms of revenue? 
+#### 9.a) What days had the most and least amount of sales in terms of order numbers? b) Which days had the most and least amount of sales in terms of revenue? 
 
 
    
