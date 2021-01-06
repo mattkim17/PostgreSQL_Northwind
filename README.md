@@ -9,7 +9,7 @@ I attached the queries to answer the questions below and the excel file with eac
 </p>
 
 
-# Questions ??? 
+# Questions for analysis 
 #### 1. What products did the customer buy? What was his/her name and how much of each product did he/she buy? On what day? 
 
 
