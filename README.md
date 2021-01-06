@@ -3,7 +3,7 @@ To practice PostgreSQL, I used the Northwind dataset which is a dataset of a sma
 
 
 <p align="center">
-  <img width="460" src="northwind_schematic.PNG">
+  <img width="800" src="northwind_schematic.PNG">
 </p>
 
 
