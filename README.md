@@ -1,5 +1,7 @@
 # PostgreSQL_Northwind
-To practice PostgreSQL, I used the Northwind dataset which is a dataset of a small fictional company. It includes customer information, shipping info, product info, orders, and more. I attached the queries to answer the questions below and an excel file with each query output. 
+To practice PostgreSQL, I used the Northwind dataset which is a dataset of a small fictional company. It includes customer information, shipping info, product info, orders, and more. I created questions that may be relevant for a business and for analytics. These are NOT the only important questions that may be asked but a few of a many! 
+
+I attached the queries to answer the questions below and the excel file with each query output inside the DATA OUTPUT folder. 
 
 
 <p align="center">
@@ -7,7 +9,7 @@ To practice PostgreSQL, I used the Northwind dataset which is a dataset of a sma
 </p>
 
 
-# Questions to answer 
+# Questions ??? 
 #### 1. What products did the customer buy? What was his/her name and how much of each product did he/she buy? On what day? 
 
 
