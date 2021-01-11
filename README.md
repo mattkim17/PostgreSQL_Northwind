@@ -1,5 +1,13 @@
 # PostgreSQL_Northwind
-To practice PostgreSQL, I used the Northwind dataset which is a dataset of a small fictional company. It includes customer information, shipping info, product info, orders, and more. I created questions that may be relevant for a business and for analytics. These are NOT the only important questions that may be asked but a few of a many! 
+To practice PostgreSQL, I used the Northwind dataset which is a dataset of a small fictional company. It includes customer information, shipping info, product info, orders, and more. I created questions that may be relevant for a business and for analytics. These are NOT the only important questions that may be asked but a few of a many! To further analyze and visualize the data, I carried out exploratory data analysis through Python and more visualizations through Tableau. I have attached the links to the Tableau sheets below. 
+
+Link to Tableu Worksheets (There is more than 1 sheet for Part 1!): 
+
+
+Part 1: https://public.tableau.com/profile/matthew.kim4112#!/vizhome/Northwind_AnalysisPart1/Sheet1
+
+
+Part 2: https://public.tableau.com/profile/matthew.kim4112#!/vizhome/NorthwindAnalysisPart2CorrelationMatrixofItemsSold/Sheet2 
 
 I attached the queries to answer the questions below and the excel file with each query output inside the DATA OUTPUT folder. 
 
